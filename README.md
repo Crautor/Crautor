@@ -44,7 +44,7 @@ object Vitor {
 </div>
 
 [Instagram]: https://www.instagram.com/Crautor
-[LinkedIn]: https://www.linkedin.com/in/
+[LinkedIn]: https://www.linkedin.com/in/vitor-hugo-dallanol-748706235/
 <br>
 
 #### Rede Sociais:
