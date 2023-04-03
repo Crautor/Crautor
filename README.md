@@ -37,13 +37,13 @@ object Vitor {
 <h2 align="left"> Most Languages </h2>
 <div align="left">
   <a href="https://github.com/Crautor">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crautor&langs_count=7&theme=dark"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crautor&layout=Demo&theme=dark"/>
 </div>
 
 <h2 align="left"> Git Hub Stats </h2>
 <div align="left">
   <a href="https://github.com/Crautor">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Crautor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Crautor&show_icons=true&theme=dark&count_private=true"/>
 </div>
 
 [Instagram]: https://www.instagram.com/Crautor
