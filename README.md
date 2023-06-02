@@ -1,7 +1,7 @@
  
   ### Hello World 👋
 
-Gosto de criar softwares e entusiasta de tecnologias.
+Gosto de criar softwares e sou entusiasta de tecnologias.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
