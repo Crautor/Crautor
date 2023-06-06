@@ -36,7 +36,7 @@ object Vitor {
 <h2 align="left"> Most Languages </h2>
 <div align="left">
   <a href="https://github.com/Crautor">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crautor&layout=Demo&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crautor&theme=dark"/>
 </div>
 
 <h2 align="left"> Git Hub Stats </h2>
