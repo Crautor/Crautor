@@ -13,7 +13,7 @@ object Vitor {
  val acknowledgements = "Desenvolvedor"
  
  val primarySkillset = "Linguagens"
- val languages = listOf("JavaScript", "HTML", "C", "CSS", "PYTHON";) 
+ val languagesAndTools = listOf("JavaScript", "HTML", "C", "CSS", "PYTHON", "JAVA", "MYSQL";) 
 }
 ```
 
