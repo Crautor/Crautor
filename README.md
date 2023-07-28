@@ -25,6 +25,8 @@ object Vitor {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"></code>
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+<code><img height="30" src="https://cdn.discordapp.com/attachments/738547066841595935/1134523056245723269/58480979cef1014c0b5e4901.png"></code>
+<code><img height="30" src="https://cdn.discordapp.com/attachments/738547066841595935/1134523582676996258/nlq8nvels9fudn0g9h7hpfjlq3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
