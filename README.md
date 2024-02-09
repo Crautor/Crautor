@@ -1,7 +1,7 @@
  
   ### Hello World 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+my+name+is+Vitor+Dallanol;I'm+18+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+my+name+is+Vitor+Dallanol;I'm+19+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
