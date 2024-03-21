@@ -5,14 +5,14 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-```kotlin
-object Vitor {
- val name = "Vitor Hugo Dallanol"
- val acknowledgements = "Desenvolvedor"
- 
- val primarySkillset = "Linguagens"
- val languagesAndTools = listOf("JavaScript", "HTML", "C", "CSS", "PYTHON", "JAVA", "MYSQL";) 
-}
+```JS
+const Vitor = {
+  name: "Vitor Hugo Dallanol",
+  acknowledgements: "Desenvolvedor",
+  
+  primarySkillset: ["REACT", "NEXTJS", "TAILWINDCSS", "NODEJS", "JAVASCRIPT"],
+  languagesAndTools: ["HTML", "CSS", "JAVASCRIPT", "C", "PYTHON", "ARDUINO", "JAVA", "MYSQL","DOCKER","REACT", "NEXTJS", "TAILWINDCSS", "NODEJS"]
+};
 ```
 
 ## **Linguagens e Ferramentas:**  
@@ -22,15 +22,17 @@ object Vitor {
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></code>
-<code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></code>
             
           
 
