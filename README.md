@@ -10,7 +10,7 @@ const Vitor = {
   name: "Vitor Hugo Dallanol",
   acknowledgements: "Desenvolvedor",
   
-  primarySkillset: ["REACT", "NEXTJS", "TAILWINDCSS", "NODEJS", "JAVASCRIPT"],
+  primarySkillset: ["VueJS", "NuxtJS", "TailwindCSS", "TypeScript"],
   languagesAndTools: ["HTML", "CSS", "JAVASCRIPT", "C", "PYTHON", "ARDUINO", "JAVA", "MYSQL","DOCKER","REACT", "NEXTJS", "TAILWINDCSS", "NODEJS"]
 };
 ```
