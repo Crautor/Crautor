@@ -34,27 +34,19 @@ const Vitor = {
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></code>
             
-          
 
-
-
-
-
-
-<h2 align="left"> Most Languages </h2>
-<div align="left">
-  <a href="https://github.com/Crautor">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crautor"/>
+###
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=crautor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crautor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left"> Git Hub Stats </h2>
-<div align="left">
-  <a href="https://github.com/Crautor">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Crautor&show_icons=true&count_private=true"/>
-</div>
+###
 
 [Instagram]: https://www.instagram.com/Crautor
 [LinkedIn]: https://www.linkedin.com/in/VitorHugoDallanol/
+
+###
 <br>
 
 #### Rede Sociais:
@@ -62,3 +54,4 @@ const Vitor = {
 
 📷 [Instagram][Instagram] **|** 
 👔 [LinkedIn][LinkedIn]
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Crautor.Crautor&left_text=Visitantes"  />
